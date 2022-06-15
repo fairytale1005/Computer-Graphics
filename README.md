@@ -7,12 +7,12 @@ OpenGL VS2019
 ![image](https://user-images.githubusercontent.com/87288147/173778178-029b2c23-8532-4de2-90a7-600abc73dd32.png)
 
 ## 实验2、OpenGL绘制基础
-![image](https://user-images.githubusercontent.com/87288147/173778481-ae435b43-aa08-4220-82a4-9f20696a2edf.png)
-![image](https://user-images.githubusercontent.com/87288147/173778744-4d098a37-ea66-444d-b696-016b51b57cdf.png)
 ![image](https://user-images.githubusercontent.com/87288147/173779048-de1e1255-9af5-4093-9f2f-d07aa6010dc7.png)
 ![image](https://user-images.githubusercontent.com/87288147/173779079-0ead7109-d3cb-484c-99ec-664a2c2e2979.png)
 ![image](https://user-images.githubusercontent.com/87288147/173779128-850a4f4d-f853-452f-9465-1e14da875ff3.png)
 ![image](https://user-images.githubusercontent.com/87288147/173779145-d8fc7418-fa9e-4acc-ac6e-d5c71bd2556e.png)
+![image](https://user-images.githubusercontent.com/87288147/173778481-ae435b43-aa08-4220-82a4-9f20696a2edf.png)
+![image](https://user-images.githubusercontent.com/87288147/173778744-4d098a37-ea66-444d-b696-016b51b57cdf.png)
 
 ## 实验3、三维模型显示
 ![image](https://user-images.githubusercontent.com/87288147/173779834-1c440b9c-02f3-4594-8a08-bcd8d0c66b89.png)
