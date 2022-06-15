@@ -1,0 +1,14 @@
+﻿  源1.cpp
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(69,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(69,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(139,24): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(139,19): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(139,14): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(145,27): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(145,21): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(145,15): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(146,27): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(146,21): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(146,15): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\DELL\Desktop\OpenGL\OpenGL\源1.cpp(261,30): warning C4244: “参数”: 从“float”转换到“GLubyte”，可能丢失数据
+  OpenGL.vcxproj -> C:\Users\DELL\Desktop\OpenGL\Debug\OpenGL.exe
