@@ -1,5 +1,5 @@
 # Computer-Graphics
-厦门大学 信息学院 图形学课程实验全纪录
+厦门大学信息学院 计算机图形学课程实验全纪录
 OpenGL VS2019
 ## 实验1、OpenGL初步
 ![image](https://user-images.githubusercontent.com/87288147/173778311-1bd15880-c5fd-4423-8d55-0f363a8d65bb.png)
